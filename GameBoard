@@ -1,0 +1,10 @@
+import java.awt.*;
+
+import javax.swing.JPanel;
+
+public class ChineseChessBoard {
+  
+   public static void main(String[] args){
+   
+      System.out.print("hello world!");
+      }
